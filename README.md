@@ -9,6 +9,11 @@ const aghil = {
   age: "21",
   location: "Iran, Isfahan",
   role: "Frontend Developer",
+  major: "Computer Engineering",
+  education: {
+    highSchool: "Completed High School",
+    university: "Computer Engineering"
+  },
   skills: ["React", "JavaScript", "HTML", "CSS", "Bootstrap", "Tailwind", "Python", "C++"],
   tools: ["VS Code", "GitHub", "Linux"],
   learning: ["Next.js", "TypeScript"],
