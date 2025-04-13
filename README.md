@@ -1,8 +1,6 @@
 <h2 align="center">Hi there 🙋‍♂️, I'm Aghil Samei</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="300" width="500" alt="Coding Animation" />
-</p>
+
 
 
 ``` React.js
